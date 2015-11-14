@@ -1,0 +1,10 @@
+# Images
+
+* Soccer match: "Sydney-Galaxy-homebush" by Joeyjeremiah kkf at English Wikipedia - Transferred from en.wikipedia to Commons by Kafuffle using CommonsHelper.. Licensed under Public Domain via Commons - https://commons.wikimedia.org/wiki/File:Sydney-Galaxy-homebush.jpg#/media/File:Sydney-Galaxy-homebush.jpg
+* Cricket match: Scarborough Festival cricket - Yorkshire versus Gloucestershire for TA0389 © Copyright Ruth Sharville and licensed for reuse under this Creative Commons Licence
+* Formula 1 Race: "2010 Malaysian GP opening lap" by Morio - photo taken by Morio. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:2010_Malaysian_GP_opening_lap.jpg#/media/File:2010_Malaysian_GP_opening_lap.jpg
+* Rugby match: By ezioman (Flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+* Rugby match: "Torneo de clasificación WRWC 2014 - Italia vs España - 18" by Carlos Delgado. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Torneo_de_clasificaci%C3%B3n_WRWC_2014_-_Italia_vs_Espa%C3%B1a_-_18.jpg#/media/File:Torneo_de_clasificaci%C3%B3n_WRWC_2014_-_Italia_vs_Espa%C3%B1a_-_18.jpg
+* Tennis match: "Wimbledon Men's final 2008, Federer serves for 3rd set" by David Underdown - Own work. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Wimbledon_Men%27s_final_2008,_Federer_serves_for_3rd_set.jpg#/media/File:Wimbledon_Men%27s_final_2008,_Federer_serves_for_3rd_set.jpg
+* Golf play: "Mike Weir-La Tempête 01" by Bernard Gagnon - Own work. Licensed under CC BY-SA 3.0 via Commons - https://commons.wikimedia.org/wiki/File:Mike_Weir-La_Temp%C3%AAte_01.jpg#/media/File:Mike_Weir-La_Temp%C3%AAte_01.jpg
+* Golf play: By Wojciech Migda (wmigda) (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons

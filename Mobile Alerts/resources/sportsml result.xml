@@ -1,0 +1,48 @@
+<sports-content xmlns:exsl="http://exslt.org/common" xmlns:bbc="http://www.bbc.co.uk/sport/sports-data"
+                path-id="soccer/l.uefa.euro.qualifying/event-summary/xt.opta.20150907213824-747643-post-event">
+    <sports-metadata date-time="2015-09-07T21:38:24+01:00" doc-id="xt.opta.20150907213824-747643-post-event" language="en-US" fixture-key="event-stats"
+                     document-class="event-summary" fixture-name="Event Score and Stats">
+        <sports-title/>
+        <sports-content-codes>
+            <sports-content-code code-name="Opta" code-key="optasports.com" code-type="publisher"/>
+            <sports-content-code code-type="sport" code-key="15054000" code-name="Soccer"/>
+            <sports-content-code code-type="tournament" code-key="CFBB235" code-name="European Championship Qualifiers" code-source="bbc.co.uk"/>
+            <sports-content-code code-type="league" code-key="l.uefa.euro.qualifying" code-name="European Championship Qualifiers" code-source="xmlteam.com"/>
+            <sports-content-code code-type="season" code-key="112016"/>
+            <sports-content-code code-type="team" code-key="TFBB357" code-source="bbc.co.uk"/>
+            <sports-content-code code-type="team" code-key="TFBB115" code-source="bbc.co.uk"/>
+        </sports-content-codes>
+    </sports-metadata>
+    <sports-event>
+        <event-metadata date-coverage-type="event" event-key="EFBO747643" event-status="post-event" bbc:result-status="certain"
+                        event-status-note="Result" start-date-time="2015-09-07T19:45:00+01:00" bbc:event-type="Regular"
+                        event-name="Scotland v Germany" event-outcome-type="regular">
+            <event-metadata-soccer week="8" minutes-elapsed="90">
+                <time-adjustment period-extra-time-elapsed="4"/>
+            </event-metadata-soccer>
+            <site>
+                <site-metadata site-key="VFBB6">
+                    <name first="Hampden Park" full="Hampden Park" abbreviation="Hampden Park" bbc:vide-code="Hampden Park"/>
+                    <home-location/>
+                </site-metadata>
+                <site-stats alignment="home" attendance="52000"/>
+            </site>
+        </event-metadata>
+        <team id="EFBO747643-TFBB115">
+            <team-metadata team-key="TFBB115" alignment="home">
+                <name first="Scotland" full="Scotland" abbreviation="Scotland" nickname="Scotland" bbc:vide-code="Scotland"/>
+            </team-metadata>
+            <team-stats score="2" score-opposing="3" event-outcome="loss" time-of-possession-percentage="27.6">
+            </team-stats>
+        </team>
+        <team id="EFBO747643-TFBB357">
+            <team-metadata team-key="TFBB357" alignment="away">
+                <name first="Germany" full="Germany" abbreviation="Germany" nickname="Germany" bbc:vide-code="Germany"/>
+            </team-metadata>
+            <team-stats score="3" score-opposing="2" event-outcome="win" time-of-possession-percentage="72.4">
+            </team-stats>
+        </team>
+    </sports-event>
+</sports-content>
+
+

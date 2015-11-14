@@ -1,0 +1,55 @@
+<SoccerFeed TimeStamp="20150907T200511+0100">
+    <SoccerDocument Type="Latest" uID="f747643">
+        <Competition uID="c235">
+            <Name>European Championship Qualifiers</Name>
+            <Round>
+                <Name>Round</Name>
+                <Pool>D</Pool>
+                <RoundNumber>1</RoundNumber>
+            </Round>
+            <Stat Type="season_id">112016</Stat>
+            <Stat Type="season_name">Euro 2016 Qualifying</Stat>
+            <Stat Type="symid">EU_EQ</Stat>
+            <Stat Type="matchday">8</Stat>
+        </Competition>
+        <MatchData>
+            <MatchInfo MatchType="Regular" Period="FirstHalf" TimeStamp="20150907T194720+0100">
+                <Date>20150907T194500+0100</Date>
+            </MatchInfo>
+            <Stat Type="match_time">18</Stat>
+            <Stat Type="first_half_start">20150907T194720+0100</Stat>
+            <TeamData Score="0" Side="Home" TeamRef="t115">...</TeamData>
+            <TeamData Score="1" Side="Away" TeamRef="t357">
+                <Goal EventID="60433904" EventNumber="1182" Period="FirstHalf" PlayerRef="p55634" Time="18" TimeStamp="20150907T200456+0100" Type="Goal" uID="g357-1">
+                    <Assist PlayerRef="p44989">p44989</Assist>
+                </Goal>
+                <Stat Type="formation_used">4231</Stat>
+            </TeamData>
+        </MatchData>
+        <Team uID="t115">
+            <Country>Scotland</Country>
+            <Name>Scotland</Name>
+        </Team>
+        <Team uID="t357">
+            <Country>Germany</Country>
+	    <Name>Germany</Name>
+	    <Player Position="Midfielder" uID="p55634">
+                <PersonName>
+                    <First>Thomas</First>
+                    <Last>Müller</Last>
+                </PersonName>
+            </Player>
+	    <Player Position="Midfielder" uID="p44989">
+                <PersonName>
+                    <First>Toni</First>
+                    <Last>Kroos</Last>
+                </PersonName>
+            </Player>
+        </Team>
+        <Venue uID="v6">
+            <Name>Hampden Park</Name>
+        </Venue>
+    </SoccerDocument>
+</SoccerFeed>
+
+

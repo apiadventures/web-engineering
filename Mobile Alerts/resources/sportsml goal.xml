@@ -1,0 +1,64 @@
+<sports-content xmlns:bbc="http://www.bbc.co.uk/sport/sports-data" xmlns="http://iptc.org/std/SportsML/2008-04-01/" bbc:query="event-actions-single-list" bbc:live-events="1">
+    <sports-metadata bbc:feed-ingest-datetime="2015-09-12T22:16:31.140+01:00" date-time="2015-09-12T21:16:31.080Z" doc-id="xt.opta.play-20150907200509-747643-60433904-goal"
+                     document-class="event-summary" fixture-key="event-action" fixture-name="Event Action" language="en-US">
+        <sports-content-codes>
+            <sports-content-code code-key="optasports.com" code-name="Opta" code-type="publisher"/>
+            <sports-content-code code-key="15054000" code-name="Soccer" code-type="sport"/>
+            <sports-content-code code-key="CFBB235" code-name="other" code-source="bbc.co.uk" code-type="tournament"/>
+            <sports-content-code code-key="l.uefa.euro.qualifying" code-name="other" code-source="xmlteam.com" code-type="league"/>
+            <sports-content-code code-key="112016" code-type="season"/>
+            <sports-content-code code-key="60433904" code-type="revision-id"/>
+            <sports-content-code code-key="goal" code-source="optasports.com" code-type="event-code"/>
+        </sports-content-codes>
+    </sports-metadata>
+    <tournament>
+        <tournament-metadata tournament-key="CFBB235" tournament-name="UEFA European Championship Qualifying" bbc:slug="european-championship-qualifying"
+                             start-date-time="2014-03-20" end-date-time="2016-07-09" bbc:competitionType="international-groupcup" bbc:name-priority="20">
+            <name full="UEFA European Championship Qualifying" first="European Championship Qualifying" abbreviation="European Championship Qualifying" bbc:vide-code="EURO"/>
+        </tournament-metadata>
+        <sports-event>
+            <event-metadata date-coverage-type="event" event-key="EFBO747643" event-name="Scotland v Germany" event-status="mid-event" event-status-note="First half"
+                            start-date-time="2015-09-12T21:16:31.060Z">
+                <event-metadata-soccer minutes-elapsed="18" period-value="1" week="8" />
+                <site>
+                    <site-metadata site-key="VFBB6">
+                        <name abbreviation="Hampden Park" bbc:vide-code="Hampden Park" first="Hampden Park" full="Hampden Park"/>
+                        <home-location country="Scotland"/>
+                    </site-metadata>
+                </site>
+            </event-metadata>
+            <team id="TFBB357">
+                <team-metadata alignment="away" team-key="TFBB357" bbc:name-priority="20" bbc:slug="germany" bbc:homepage="http://www.bbc.co.uk/sport/football/teams/germany">
+                    <name full="Germany" first="Germany" abbreviation="Germany" bbc:vide-code="GER"/>
+                </team-metadata>
+                <team-stats event-outcome="undecided" score="1" score-opposing="0"/>
+                <player id="PO55634">
+                    <player-metadata player-key="PO55634">
+                        <name abbreviation="Müller" first="Thomas" full="Thomas Müller" last="Müller"/>
+                    </player-metadata>
+                </player>
+                <player id="PO44989">
+                    <player-metadata player-key="PO44989">
+                        <name abbreviation="Kroos" first="Toni" full="Toni Kroos" last="Kroos"/>
+                    </player-metadata>
+                </player>
+            </team>
+            <team id="TFBB115">
+                <team-metadata alignment="home" team-key="TFBB115" bbc:name-priority="20" bbc:slug="scotland" bbc:homepage="http://www.bbc.co.uk/sport/football/teams/scotland">
+                    <name full="Scotland" first="Scotland" abbreviation="Scotland" bbc:vide-code="SCO"/>
+                </team-metadata>
+                <team-stats event-outcome="undecided" score="0" score-opposing="1"/>
+            </team>
+            <event-actions>
+                <event-actions-soccer>
+                    <action-soccer-score bbc:last-modified="2015-09-07T20:05:09" bbc:record-type="new" id="a.60433904" minutes-elapsed="18" period-value="1" score-attempt-type="regular"
+                                         sequence-number="2015-09-07T20:04:56" team-idref="TFBB357">
+                        <action-soccer-play-participant player-idref="PO55634" role="scorer" team-idref="TFBB357"/>
+                        <action-soccer-play-participant player-idref="PO44989" role="assist" team-idref="TFBB357"/>
+                    </action-soccer-score>
+                </event-actions-soccer>
+            </event-actions>
+        </sports-event>
+    </tournament>
+</sports-content>
+
