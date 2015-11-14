@@ -1,8 +1,8 @@
-Web Engineering
-===============
-# BBC Digital Media Graduate Scheme
+# Web Engineering
 
-# Additonal Reading
+## BBC Digital Media Graduate Scheme
+
+## Additonal Reading
 
 [BBC Development Practices](http://www.bbc.co.uk/academy/technology/software-engineering/development-practices)
  
